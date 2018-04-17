@@ -1,0 +1,13 @@
+.main{
+    width: auto;
+    background-color: white;
+}
+
+.box{
+    background-color: orange;
+    width: 31%;
+    padding-bottom: 31%;
+    float: left;
+    border-radius: 10%;
+    margin: 1%;
+}
